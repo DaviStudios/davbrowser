@@ -1,3 +1,3 @@
 <e='head'%v='Testing title'%id='head'>
 <e='head'%v='Testing title'%id='head2'>
-<script='head'%v='print("Hello, world"!)'%id='main'>
+<script='head'%v='print(´Hello, world'!´)'%id='main'>
